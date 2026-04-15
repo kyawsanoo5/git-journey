@@ -1,2 +1,3 @@
 two
 Git & GitHub make easy everything!
+new line
