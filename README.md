@@ -78,7 +78,7 @@ line break <br> line break
 
 # 9. Image
 You can attach image files directly to a notebook in Markdown cells. Drag and drop your images to the Markdown cell to attach it to the notebook.
-![Alt Text](https://raw.githubusercontent.com/kyawsanoo5/git-journey/main/images/myphoto.png)
+![Alt Text](https://raw.githubusercontent.com/kyawsanoo5/git-journey/main/images/Q-le.png)
 
 
 # 10. Colors
