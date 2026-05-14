@@ -2,5 +2,4 @@ one
 I'm learning Git & Github
 new line
 three
-33 Hello
-new feature
+33
