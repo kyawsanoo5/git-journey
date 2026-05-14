@@ -79,7 +79,10 @@ line break <br> line break
 # 9. Image
 You can attach image files directly to a notebook in Markdown cells. Drag and drop your images to the Markdown cell to attach it to the notebook.
 ![Alt Text](https://raw.githubusercontent.com/kyawsanoo5/git-journey/main/images/Q-le.png)
-
+![CreditCard-Fraud_Detection](images/CreditCard-Fraud_Detection.png)
+![Zero_Theory](images/Zero_Theory.png)
+![Shopping_Behaviior_02](images/Shopping_Behaviior_02.png)
+![Shopping_Behavior_00](images/Shopping_Behavior_00.png)
 
 # 10. Colors
 Use this code:<font color=blue|red|green|pink|yellow>Text</font> Not all markdown code works withina font tag, so review your colored text carefully!
